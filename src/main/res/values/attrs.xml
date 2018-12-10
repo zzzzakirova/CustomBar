@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomBar">
+    <attr name="sliderHeight" format="dimension"/>
+    <attr name="sliderThickness" format="dimension"/>
+    <attr name="barThickness" format="dimension"/>
+    <attr name="barHeight" format="dimension"/>
+    <attr name="barColor" format="color"/>
+    <attr name="sliderColor" format="color"/>
+    <attr name="unfilledSecionColor" format="color"/>
+    </declare-styleable>
+
+</resources>

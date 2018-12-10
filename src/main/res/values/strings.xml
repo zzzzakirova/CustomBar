@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomBar</string>
+    <string name="slider_button_name">Set slider</string>
+    <string name="progress_button_name">Set progress</string>
+</resources>
